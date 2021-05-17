@@ -61,13 +61,13 @@ They provide quality product feedback and are willing to voice their opinion whe
 -	Creation of original content for third-party platforms that include [company's name] services and showcase us favorably.
 
 ### Projected impact (not all apply to all OSS Advisors evenly), Key Results
-	1+ product feedback / OSS Advisors / quarter
-	1+ pieces of content that mention [company's name] / OSS Advisor / month
-	1+ contribution to [company's name] documentation base / OSS Advisor / month (accounting for seasonality necessary)
-	Continued contribution to [company's name] documentation
-	% increase in trial subscriptions (tbd, when current numbers are available)
-	% increase in visitors to tech pages (tbd, when current numbers are available)
-	More tbd, when company measurables are available
+-	1+ product feedback / OSS Advisors / quarter
+-	1+ pieces of content that mention [company's name] / OSS Advisor / month
+-	1+ contribution to [company's name] documentation base / OSS Advisor / month (accounting for seasonality necessary)
+-	Continued contribution to [company's name] documentation
+-	% increase in trial subscriptions (tbd, when current numbers are available)
+-	% increase in visitors to tech pages (tbd, when current numbers are available)
+-	More tbd, when company measurables are available
 
 
 ### What is Success (tools of measurements in brackets)
