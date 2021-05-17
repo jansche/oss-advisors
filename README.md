@@ -169,14 +169,13 @@ Once the program is announced we can’t make it undone without harm in credibil
 Share of voice: a quick guide for marketers - Talkwalker(https://www.talkwalker.com/blog/measure-share-voice)
 
 ### OSS reports
-[The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.](https://octoverse.github.com/)
-
-[The changing GitHub community – PDF: github-octoverse-2020-community-report.pdf](https://octoverse.github.com/static/github-octoverse-2020-community-report.pdf#page=9)
+- [The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.](https://octoverse.github.com/)
+- [The changing GitHub community – PDF: github-octoverse-2020-community-report.pdf](https://octoverse.github.com/static/github-octoverse-2020-community-report.pdf#page=9)
 
 ### Apache Kafka Community: 
-[Kafka Monthly Digest – December 2020 and 2020 in review – IBM Developer](https://developer.ibm.com/components/kafka/blogs/kafka-monthly-digest-2020-12/)
-[Apache in 2019 - By The Digits : The Apache Software Foundation Blog](https://blogs.apache.org/foundation/entry/apache-in-2019-by-the)
-[Apache in 2020 - By The Digits : The Apache Software Foundation Blog](https://blogs.apache.org/foundation/entry/apache-in-2020-by-the#:~:text=The%20Apache%20community%20continues%20to,new%20ASF%20Members%2C%20totalling%20813.)
+- [Kafka Monthly Digest – December 2020 and 2020 in review – IBM Developer](https://developer.ibm.com/components/kafka/blogs/kafka-monthly-digest-2020-12/)
+- [Apache in 2019 - By The Digits : The Apache Software Foundation Blog](https://blogs.apache.org/foundation/entry/apache-in-2019-by-the)
+- [Apache in 2020 - By The Digits : The Apache Software Foundation Blog](https://blogs.apache.org/foundation/entry/apache-in-2020-by-the#:~:text=The%20Apache%20community%20continues%20to,new%20ASF%20Members%2C%20totalling%20813.)
 
 ### Previously shared program descriptions
 Community Advisors / OSS Advisors
