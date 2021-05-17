@@ -1,7 +1,7 @@
-# An OSS Advisor Program 
+# OSS Advisors - A DevRel Program Draft
 
 ## Executive Summary
-The OSS Advisors are a diverse external group of people, hand-picked from the communities around [company's name] portfolio and awarded the title of an OSS Advisor for 12 months. With this award we appreciate their efforts in maintaining or contributing to a product and its community that matters to us as much as it matters to them. With this shared commitment to a product we promise them our ongoing support to nurture the community and create a product that better serves the communities needs.
+The OSS Advisors are a diverse external group of people, hand-picked from the communities around [company's name] portfolio and awarded the title of an OSS Advisor for 12 months. With this award we appreciate their efforts in maintaining or contributing to a product and its community that matters to us as much as it matters to them. With this shared commitment to a product we promise them our ongoing support to nurture the community and create a product that better serves the communities' needs.
 Through aspiring to become or hold the status of an OSS Advisor, they commit themselves to:
 -	providing quality product feedback in face to face sessions with product teams and advocates,
 -	contribute to creating content covering [company's name] services
