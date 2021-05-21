@@ -1,3 +1,5 @@
+_I'm currently looking for a new job in Developer Relations. Ideally in Program Management, DevRel strategy or Head of / Leading DevRel for an awesome company. Hire me!_
+
 _This document has been developed as an assignment during a job interview for a DevRel role in 2021. It may be useful as an inspiration for future DevRel programs. Use it at your own discretion. It's published under the [MIT license](LICENSE). Please let me know and give credits if you use it._
 
 # OSS Advisors - A DevRel Program Draft
