@@ -164,7 +164,7 @@ Once the program is announced we can’t make it undone without harm in credibil
 ### Heroes programs list:
 -	[AWS Heroes - AWS Heroes | Worldwide Cloud Community | AWS Developer Center (amazon.com)](https://aws.amazon.com/developer/community/heroes/?community-heroes-all.sort-by=item.additionalFields.sortPosition&community-heroes-all.sort-order=asc&awsf.filter-hero-category=*all&awsf.filter-location=*all&awsf.filter-year=*all&awsf.filter-activity=*all)
 -	[Google Developer Experts - Experts  |  Google Developers](https://developers.google.com/community/experts)
--	[Microsoft Most Valuable Professionals](https://mvp.microsoft.com/)
+-	[Microsoft Most Valuable Professionals](https://mvp.microsoft.com/?WT.mc_id=opensource-0000-jansche)
 -	[GitHub Stars - GitHub Stars: inspire, educate & influence developer communities](https://stars.github.com/)
 -	
 
