@@ -123,7 +123,7 @@ o	Product teams have a right to veto against a nominee.
 3.	Develop a final version that gets the approval from all stakeholders.
 4.	Start hiring for the Community Program Manager position.
 5.	Build the program inclusively from the beginning: gender ratio (taking into account non-binary representation), representation of marginalized groups (LGBTQI+, disability, migration background, diverse experience levels, age)
-6.	Create program collaterals (design, layouts, meaningful swag with Rapu)
+6.	Create program collaterals (design, layouts, meaningful swag)
 7.	Hire a Community Program Manager to run the program within first 3 months
 8.	Build a program of 5 OSS Advisors within 3 months of program kick-off, 20 within 12 months
 9.	Develop best practices for collaboration between Product Engineering, Advocacy and OSS Advisors to integrate community feedback into product development within first for months of the program.
